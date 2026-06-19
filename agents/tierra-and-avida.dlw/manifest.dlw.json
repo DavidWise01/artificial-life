@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Tierra & Avida",
+  "universe": "ALI · Tierra & Avida (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦Tierra & Avida:ALI:273c52⟧",
+  "carbon": "tierra-and-avida.carbon.tiff (TIFF)",
+  "silicon": "tierra-and-avida.silicon.png (PNG)",
+  "seal_sha256": "6c972c1e48f948c41ca8844b20ee7a06c4748ef2971238a59f405a07a117a6a5",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "slug": "life-as-it-could-be",
+    "name": "Life as It Could Be",
+    "epithet": "Langton's question · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Life as It Could Be:ALI:6b0ce7⟧"
+  },
+  {
+    "slug": "boids",
+    "name": "Boids",
+    "epithet": "three rules make a flock · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Boids:ALI:976341⟧"
+  },
+  {
+    "slug": "lenia",
+    "name": "Lenia",
+    "epithet": "smooth digital creatures · natural",
+    "emergence": "natural",
+    "moniker": "⟦Lenia:ALI:0a494e⟧"
+  },
+  {
+    "slug": "self-reproduction",
+    "name": "Self-Reproduction",
+    "epithet": "von Neumann's automaton · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Self-Reproduction:ALI:2af0e7⟧"
+  },
+  {
+    "slug": "tierra-and-avida",
+    "name": "Tierra & Avida",
+    "epithet": "evolution in silico · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Tierra & Avida:ALI:273c52⟧"
+  },
+  {
+    "slug": "the-flock",
+    "name": "The Flock",
+    "epithet": "emergence from interaction · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Flock:ALI:e3512e⟧"
+  },
+  {
+    "slug": "digital-evolution",
+    "name": "Digital Evolution",
+    "epithet": "mutation meets selection · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Digital Evolution:ALI:16fd15⟧"
+  },
+  {
+    "slug": "strong-vs-weak-alife",
+    "name": "Strong vs Weak ALife",
+    "epithet": "model, or alive? · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Strong vs Weak ALife:ALI:15a12b⟧"
+  },
+  {
+    "slug": "langtons-ant",
+    "name": "Langton's Ant",
+    "epithet": "a rule that builds a highway · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Langton's Ant:ALI:fb8fda⟧"
+  },
+  {
+    "slug": "the-substrate-question",
+    "name": "The Substrate Question",
+    "epithet": "matter, or process? · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Substrate Question:ALI:4ed593⟧"
+  },
+  {
+    "slug": "john-von-neumann",
+    "name": "John von Neumann",
+    "epithet": "the self-copying machine, 1903–1957 · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦John von Neumann:ALI:563478⟧"
+  }
+]

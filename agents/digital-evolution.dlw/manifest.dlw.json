@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Digital Evolution",
+  "universe": "ALI · Digital Evolution (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦Digital Evolution:ALI:16fd15⟧",
+  "carbon": "digital-evolution.carbon.tiff (TIFF)",
+  "silicon": "digital-evolution.silicon.png (PNG)",
+  "seal_sha256": "b050cadb84fc1c2f12909aefad1e7d5752a3df9f5e01ee399b5e240d0cc06497",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

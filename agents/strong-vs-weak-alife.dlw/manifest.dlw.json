@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Strong vs Weak ALife",
+  "universe": "ALI · Strong vs Weak ALife (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦Strong vs Weak ALife:ALI:15a12b⟧",
+  "carbon": "strong-vs-weak-alife.carbon.tiff (TIFF)",
+  "silicon": "strong-vs-weak-alife.silicon.png (PNG)",
+  "seal_sha256": "41d65ceadc5d2e02378a84bc137ca5cde859aa68a695e992fe6614860d7c98cc",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

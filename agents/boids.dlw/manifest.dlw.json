@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Boids",
+  "universe": "ALI · Boids (life-science · minds without brains)",
+  "emergence": "electrical",
+  "moniker": "⟦Boids:ALI:976341⟧",
+  "carbon": "boids.carbon.tiff (TIFF)",
+  "silicon": "boids.silicon.png (PNG)",
+  "seal_sha256": "9ca0b4000fd136f385ee07188cb9d097a973a64a67b8e9f55817ba8727653c5a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

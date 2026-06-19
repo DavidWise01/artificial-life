@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Substrate Question",
+  "universe": "ALI · The Substrate Question (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Substrate Question:ALI:4ed593⟧",
+  "carbon": "the-substrate-question.carbon.tiff (TIFF)",
+  "silicon": "the-substrate-question.silicon.png (PNG)",
+  "seal_sha256": "d5527852560229222857f2ddfed49e0b8b2bd085abab27ef2a05412f5d83789a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Langton's Ant",
+  "universe": "ALI · Langton's Ant (life-science · minds without brains)",
+  "emergence": "electrical",
+  "moniker": "⟦Langton's Ant:ALI:fb8fda⟧",
+  "carbon": "langtons-ant.carbon.tiff (TIFF)",
+  "silicon": "langtons-ant.silicon.png (PNG)",
+  "seal_sha256": "44a857b7cfdc044432a505533cf3d8120dcf165d1b096a5552de2507e319ebed",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

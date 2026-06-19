@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Flock",
+  "universe": "ALI · The Flock (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Flock:ALI:e3512e⟧",
+  "carbon": "the-flock.carbon.tiff (TIFF)",
+  "silicon": "the-flock.silicon.png (PNG)",
+  "seal_sha256": "12ff755633c444511b7684c491469cdd9ed311e1b2c35fd2d9b1acc2c2569aff",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

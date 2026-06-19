@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Life as It Could Be",
+  "universe": "ALI · Life as It Could Be (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦Life as It Could Be:ALI:6b0ce7⟧",
+  "carbon": "life-as-it-could-be.carbon.tiff (TIFF)",
+  "silicon": "life-as-it-could-be.silicon.png (PNG)",
+  "seal_sha256": "19434cf40f3a4981b1b3310e3030067500bd7efab3a09987bc6ec178ea098cde",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

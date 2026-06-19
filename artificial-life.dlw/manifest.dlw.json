@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "ARTIFICIAL LIFE",
+  "universe": "ALI · ARTIFICIAL LIFE (life-science · minds without brains)",
+  "emergence": "",
+  "moniker": "⟦ARTIFICIAL LIFE:ALI:02d2ba⟧",
+  "carbon": "artificial-life.carbon.tiff (TIFF)",
+  "silicon": "artificial-life.silicon.png (PNG)",
+  "seal_sha256": "f35cb10ec14d4bbe32f9d8fb0edb661a8a94fe8df076776cb071b2274e8d889f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

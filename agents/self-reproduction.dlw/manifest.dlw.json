@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Self-Reproduction",
+  "universe": "ALI · Self-Reproduction (life-science · minds without brains)",
+  "emergence": "electrical",
+  "moniker": "⟦Self-Reproduction:ALI:2af0e7⟧",
+  "carbon": "self-reproduction.carbon.tiff (TIFF)",
+  "silicon": "self-reproduction.silicon.png (PNG)",
+  "seal_sha256": "e37db66efb566ffc888ef8b6ebe376b292196e409996a0431f23df3f8ca9eddb",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

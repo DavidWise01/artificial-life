@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Lenia",
+  "universe": "ALI · Lenia (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦Lenia:ALI:0a494e⟧",
+  "carbon": "lenia.carbon.tiff (TIFF)",
+  "silicon": "lenia.silicon.png (PNG)",
+  "seal_sha256": "e2875915e732792965c4219b7a1cd2120c8740b11af1db7707e69bb9f8cda570",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
