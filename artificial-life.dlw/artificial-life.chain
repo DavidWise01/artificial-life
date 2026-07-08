@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 783
+slug  : artificial-life
+seal  : f35cb10ec14d4bbe32f9d8fb0edb661a8a94fe8df076776cb071b2274e8d889f
+prev  : e79d596ee10ef9f85c6caea80192a33bbc9879aeb941db3aa64f845a2eb26d61
+link  : 123e2a1d3efbe0e3690fb773cc562c85d730120e2422f38055052b3d978f4804
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
